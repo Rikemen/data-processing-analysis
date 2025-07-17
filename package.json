@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "danfojs": "^1.2.0"
+    "danfojs": "^1.2.0",
+    "danfojs-node": "^1.2.0"
   }
 }
